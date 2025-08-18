@@ -1,4 +1,4 @@
-// pipeline {
+//  pipeline {
 //     agent any
 
 //     environment {
@@ -78,7 +78,7 @@
 //             echo 'Deployment failed.'
 //         }
 //     }
-// }
+// } 
 // Declarative //
 pipeline {
     agent any
